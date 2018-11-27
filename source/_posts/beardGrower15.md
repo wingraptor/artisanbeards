@@ -2,7 +2,7 @@
 name: The Beard Grower - 15ml
 id: beardGrower15
 price: 18
-image: images/15mlBottle.jpg
+image: images/15mlBottle.webp
 ---
 
 This oil is a rich blend of sweet almond, jojoba and apricot kernel oils with deep aromas of lavender, rosemary and the woodsy cedarwood oil. 

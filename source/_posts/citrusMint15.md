@@ -2,7 +2,7 @@
 name: Citrus Mint w/ Tea Tree Oil - 15ml
 id: citrusMint15
 price: 18
-image: images/15mlBottle.jpg
+image: images/15mlBottle.webp
 ---
 
 This invigorating blend of jojoba, argan and almond oils is bursting with a citrusy fragrance and subtle peppermint undertones. 
