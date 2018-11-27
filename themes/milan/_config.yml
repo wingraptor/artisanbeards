@@ -20,7 +20,7 @@ default_image: images/default.jpg
 snipcart_api_key: 
 
 # Google Analytics Tracking ID
-google_analytics:
+google_analytics: UA-106607596-1
 
 # Social Accounts
 email_url:
